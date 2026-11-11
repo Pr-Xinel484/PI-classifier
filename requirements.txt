@@ -1,0 +1,19 @@
+# Core scientific stack
+numpy
+scipy
+pandas
+matplotlib
+
+# Machine learning
+scikit-learn
+joblib
+
+# Topological data analysis
+gudhi
+
+# Audio processing
+librosa
+
+# Utilities
+tqdm
+Pillow
