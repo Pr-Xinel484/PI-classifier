@@ -1,6 +1,6 @@
 # Persistence Images: Birdsong Classification & Kuramoto–Sivashinsky Experiments
 
-Research code for constructing **persistence images (PIs)** from persistent homology and using those features in machine-learning experiments. The repository covers two applications:
+Constructing **persistence images (PIs)** from persistent homology and using those features in machine-learning experiments. The repository covers two applications:
 
 1. **Birdsong classification:** extract topological features from audio signals or their mel spectrograms, then classify bird species.
 2. **Anisotropic Kuramoto–Sivashinsky (KS) equation:** simulate 2D surfaces, compute sublevel-set persistence images, and classify the parameter setting.
